@@ -1,2 +1,2 @@
 # Text-To-Speech
-android app
+simple text to speech android app
